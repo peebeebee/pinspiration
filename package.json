@@ -1,0 +1,23 @@
+{
+  "name": "pinspiration",
+  "version": "0.0.1",
+  "description": "Open Source Pinterest Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peebeebee/pinspiration.git"
+  },
+  "keywords": [
+    "pinterest",
+    "angular"
+  ],
+  "author": "Peter Briers",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/peebeebee/pinspiration/issues"
+  },
+  "homepage": "https://github.com/peebeebee/pinspiration#readme"
+}
